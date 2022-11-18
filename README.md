@@ -1,47 +1,32 @@
 ![Logo](https://static.kinamo.be/upload/sync/headerimg/mysql-automatic-backup-script.png)
 
-# جست و جوی کتاب
+# پشتیبان گیری از پایگاه داده مای اسکیو ال
 
-یک وب سرویس (API) برای جست و جوی کتاب 
+یک ابزار برای پشتیبان گیری از پایگاه داده مای اسکیو ال  
 
 ## نحوه اجرا : 
 
-فایل index.php را در سرور خود آپلود میکنید.
-
-و پارامتر نام را برای آن با متود گت مشخص میکنید.
-
-مثال : 
-
-https://yourdomain.com/index.php?name=laravel
-
-خروجی شما بصورت جیسون خواهد بود
+فایل ها را در سرور اپلود کرده , یوزر , پسورد و نام دیتابیس خود را در فایل ها ویرایش کنید و مسیر فایل را باز کنید
 
 موفق باشید
 
 -------------------------------------------------------------------------
 
-# Book search
+# Backing up the MySql database
 
-A web service (API) for book search
+
+A tool for backing up the MySQL database
 
 ## How to run:
 
-You upload the index.php file to your server.
-
-And you specify the name parameter for it with the get method.
-
-Example :
-
-https://yourdomain.com/index.php?name=laravel
-
-Your output will be as Json
+Upload the files to the server, edit your user, password and database name in the files and open the file path.
 
 Good luck
 
 -------------------------------------------------------------------------
 
 ### ❤️Thank you Supporters - با تشکر از شما حامیان❤️
-[![Stargazers repo roster for @shivaya-dav/DogeRat](https://reporoster.com/stars/dark/malbo-dev/searchBook)](https://github.com/malbo-dev/searchBook/stargazers)
+[![Stargazers repo roster for @shivaya-dav/DogeRat](https://reporoster.com/stars/dark/malbo-dev/backupMySql)](https://github.com/malbo-dev/backupMySql/stargazers)
 
 ## 🔗 Channel - شبکه های اجتماعی
 [![instagram](https://img.shields.io/badge/Channel-Telegram-blue)](https://t.me/Malbo_Dev)
